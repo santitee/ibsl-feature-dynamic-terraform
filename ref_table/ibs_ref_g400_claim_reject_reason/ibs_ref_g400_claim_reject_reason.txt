@@ -1,0 +1,25 @@
+﻿T9699|01|Outstg Clm|Outstanding Claim form|1|06
+T9699|02|Death Cert|Death certificate Pending|1|04
+T9699|03||ขาดใบมรณบัตร|1|04
+T9699|04||ฆ่าตัวตายภายใน 1 ปี|1|09
+T9699|05||ไม่เข้าเงื่อนไข TPD|1|04
+T9699|06|Non-acc|ไม่เข้าเงื่อนไข ADB|1|04
+T9699|07|void|บอกล้างสัญญา|1|06
+T9699|08|Motor|รอรายงานการตรวจสุขภาพ|1|06
+T9699|09|INVEST|ตรวจสอบสุขภาพก่อนประกัน|1|06
+T9699|10||รอการชำระเบี้ย|1|06
+T9699|11|Wrong Clm.|Wrong claim lodged by claimant|1|06
+T9699|12|UW|รอการพิจารณารับประกัน|1|06
+T9699|13||ขาดทะเบียนบ้านจำหน่าย"ตาย"|1|06
+T9699|14||รอสำเนารายงานชันสูตรพลิกศพ|1|06
+T9699|21|HospCredit|Credit Period for Hospital|1|06
+T9699|22|MedicalRep|More Medical Reports|1|06
+T9699|31|NormalAppr|Normal Approval|1|06
+T9699|32|Reversal|Claim Reversal|1|06
+T9699|41|BusnReason|Business Reason|1|06
+T9699|42|Director|Director - Special case|1|06
+T9699|51|No Cover|Dependent not on cover|1|07
+T9699|52|No Renewal|Policy has not been Renewed|1|06
+T9699|53|Exceed Max|Maximum Limit Exceeded|1|10
+T9699|98|PRE|Pre-existing condition|1|06
+T9699|99|Wrong Date|Wrong Incurred Date|1|06

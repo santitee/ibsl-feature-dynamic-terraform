@@ -1,0 +1,233 @@
+AB03|Extended cvrg-GroupPA(AorBor3)|PA39|Driving/Traveling on Motorcycl|C20-002
+ADB1|การเสียชีวิตจากอุบัติเหตุ|A025|Double Benefit by Public Trans|C20-002
+ADB1|การเสียชีวิตจากอุบัติเหตุ|A026|Accident Dismemberment|C20-002
+ADB1|การเสียชีวิตจากอุบัติเหตุ|A027|Accident Dismemberment (Short)|C20-002
+ADB1|การเสียชีวิตจากอุบัติเหตุ|D004|Death (Accident)|C20-002
+ADB1|การเสียชีวิตจากอุบัติเหตุ|D005|Death (Double indemnity)|C20-002
+ADB1|การเสียชีวิตจากอุบัติเหตุ|D006|Death (all cause)- GTL4|C20-002
+ADB1|การเสียชีวิตจากอุบัติเหตุ|T001|Total Permanence Dis(10-90)|C20-002
+ADB1|การเสียชีวิตจากอุบัติเหตุ|T002|Total Permanence Dis(50-50)|C20-002
+ADB1|การเสียชีวิตจากอุบัติเหตุ|T007|Total Disability|C20-002
+ADB2|ADB2 Circle Loan|D006|Death (all cause)- GTL4|CR0002
+ADB3|ADB3 PA365|PA01|Accidental Death|C20-002
+ADI1|อุบัติเหตุสาธารณภัย|A025|Double Benefit by Public Trans|C20-008
+ADI1|อุบัติเหตุสาธารณภัย|A026|Accident Dismemberment|C20-008
+ADI1|อุบัติเหตุสาธารณภัย|A027|Accident Dismemberment (Short)|C20-008
+ADI1|อุบัติเหตุสาธารณภัย|D001|Death (all cause)- GTL1|C20-008
+ADI1|อุบัติเหตุสาธารณภัย|D004|Death (Accident)|C20-008
+ADI1|อุบัติเหตุสาธารณภัย|D005|Death (Double indemnity)|C20-008
+APD1|การสูญเสียอวัยวะจากอุบัติเหตุ1|A025|Double Benefit by Public Trans|C20-002
+APD1|การสูญเสียอวัยวะจากอุบัติเหตุ1|A026|Accident Dismemberment|C20-002
+APD1|การสูญเสียอวัยวะจากอุบัติเหตุ1|A027|Accident Dismemberment (Short)|C20-002
+APD1|การสูญเสียอวัยวะจากอุบัติเหตุ1|D004|Death (Accident)|C20-002
+APD1|การสูญเสียอวัยวะจากอุบัติเหตุ1|D005|Death (Double indemnity)|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|A025|Double Benefit by Public Trans|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|A026|Accident Dismemberment|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|A027|Accident Dismemberment (Short)|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|BOO1|LossOrg-2hands / 2feet / 2eyes|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|BOO2|LossOrg-2limbs / 1limb&1eye|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|BOO3|LossOrg-1hand / 1foot / 1eye|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|BOO4|LossOrg-Thumb&IdxFgr in a hand|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|D004|Death (Accident)|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|D005|Death (Double indemnity)|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|D006|Death (all cause)- GTL4|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA01|Accidental Death|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA02|Permanent Total Disability|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA03|Total Loss of two limbs|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA04|Total Loss of one limb|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA05|Total Loss of both eyes|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA06|Total Loss of one eye|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA10|Loss of hearing in both ears|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA11|Loss of hearing in one ear|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA12|Loss of speech|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA14|Loss of thumb (both joints)|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA15|Loss of thumb (one joint)|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA16|Loss of index finger (3joints)|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA17|Loss of index finger (2joints)|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA18|Loss of index finger (1joints)|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA19|Loss of each other fingers(>2)|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA20|Loss of hallux|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA21|Loss of each other toes (>1)|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|PA22|Loss of one limb & one eye sig|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|T001|Total Permanence Dis(10-90)|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|T002|Total Permanence Dis(50-50)|C20-002
+APD2|การสูญเสียอวัยวะจากอุบัติเหตุ2|T007|Total Disability|C20-002
+APD3|APD3 PA365|PA02|Permanent Total Disability|C20-002
+APD3|APD3 PA365|PA03|Total Loss of two limbs|C20-002
+APD3|APD3 PA365|PA04|Total Loss of one limb|C20-002
+APD3|APD3 PA365|PA05|Total Loss of both eyes|C20-002
+APD3|APD3 PA365|PA06|Total Loss of one eye|C20-002
+APD3|APD3 PA365|PA10|Loss of hearing in both ears|C20-002
+APD3|APD3 PA365|PA11|Loss of hearing in one ear|C20-002
+APD3|APD3 PA365|PA12|Loss of speech|C20-002
+APD3|APD3 PA365|PA14|Loss of thumb (both joints)|C20-002
+APD3|APD3 PA365|PA15|Loss of thumb (one joint)|C20-002
+APD3|APD3 PA365|PA16|Loss of index finger (3joints)|C20-002
+APD3|APD3 PA365|PA17|Loss of index finger (2joints)|C20-002
+APD3|APD3 PA365|PA18|Loss of index finger (1joints)|C20-002
+APD3|APD3 PA365|PA19|Loss of each other fingers(>2)|C20-002
+APD3|APD3 PA365|PA20|Loss of hallux|C20-002
+APD3|APD3 PA365|PA21|Loss of each other toes (>1)|C20-002
+APD3|APD3 PA365|PA22|Loss of one limb & one eye sig|C20-002
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH01|Complete Health Room and Board|C9B10
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH02|Complete Health Hospital Fee|C9B10
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH03|Complete Health Hosp Benefit|C9B10
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH05|Complete Consult & presciption|C9B13
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH08|Complete New Born Accomodation|C9B35
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH09|Complete Health Maternity|C9B35
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH10|Complete Health Pre-Existing|C9B13
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH11|Complete Hlt Alternate Therapi|C9B35
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH12|Complete Hlt Psychiatric Treat|C9B35
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH13|Complete Health Dental Care|C20-014
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH14|Complete Health Optical Care|C9B35
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH15|Complete Health Check-up(12MWP|C9B35
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH16|Complete Health Vaccination|C9B35
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH17|Complete Hlth Hosp&Palliative|C9B35
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH18|CHRadiotherapy and chemotherap|C9B32
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH19|CH Kidney dialysis|C9B30
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH20|CH Surgical procedure|C9B18
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH21|CH Diagnostic scans|C9B08
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH22|CH Labs investigations, X ray|C9B08
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH23|CH Courses of physiotherapy|C9B29
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH24|CH Ambulance transportation|C9B33
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH25|CH Accidental damage to teeth|C20-014
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH26|CH Oral and Maxillofacial|C20-014
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH27|CH Pre and post natal|C9B35
+CHS1|ค่ารักษาพยาบาลแบบ CHS|CH28|Death Benefit (All causes)|CR0002
+DENL|ทันตกรรม แบบต่อปี (Lump Sum)|DT01|Dental teeth extract|C20-014
+DENL|ทันตกรรม แบบต่อปี (Lump Sum)|DT02|Dental teeth exam|C20-014
+DENL|ทันตกรรม แบบต่อปี (Lump Sum)|DT03|Dental teeth X-ray|C20-014
+DENL|ทันตกรรม แบบต่อปี (Lump Sum)|ED05|Extend Gum, Periodontal|C20-014
+DENL|ทันตกรรม แบบต่อปี (Lump Sum)|ED06|Extend Gum, Periodontal|C20-014
+DENL|ทันตกรรม แบบต่อปี (Lump Sum)|ED07|Extend Dental Sealant|C20-014
+DENL|ทันตกรรม แบบต่อปี (Lump Sum)|ED08|Extend Dental Sealant|C20-014
+DEN1|ทันตกรรม แบบต่อครั้ง(Schedule)|DT01|Dental teeth extract|C20-014
+DEN1|ทันตกรรม แบบต่อครั้ง(Schedule)|DT02|Dental teeth exam|C20-014
+DEN1|ทันตกรรม แบบต่อครั้ง(Schedule)|DT03|Dental teeth X-ray|C20-014
+DNFL|Dental No prorate(Lump Sum)|DT01|Dental teeth extract|C20-014
+DNFL|Dental No prorate(Lump Sum)|DT02|Dental teeth exam|C20-014
+DNFL|Dental No prorate(Lump Sum)|DT03|Dental teeth X-ray|C20-014
+DNFL|Dental No prorate(Lump Sum)|ED06|Extend Gum, Periodontal|C20-014
+DNFL|Dental No prorate(Lump Sum)|ED08|Extend Dental Sealant|C20-014
+GAS1|Group Accident|A022|Medical Expense (Accident)|C20-005
+GAS1|Group Accident|A026|Accident Dismemberment|C20-002
+GAS1|Group Accident|A027|Accident Dismemberment (Short)|C20-002
+GAS1|Group Accident|D004|Death (Accident)|C20-002
+GAS1|Group Accident|D005|Death (Double indemnity)|C20-002
+GAS1|Group Accident|T001|Total Permanence Dis(10-90)|C20-002
+GAS1|Group Accident|T002|Total Permanence Dis(50-50)|C20-002
+GAS1|Group Accident|T007|Total Disability|C20-002
+GAS2|Group Accident-Occ loading|A022|Medical Expense (Accident)|C20-005
+GAS2|Group Accident-Occ loading|A026|Accident Dismemberment|C20-002
+GAS2|Group Accident-Occ loading|A027|Accident Dismemberment (Short)|C20-002
+GAS2|Group Accident-Occ loading|D004|Death (Accident)|C20-002
+GAS2|Group Accident-Occ loading|D005|Death (Double indemnity)|C20-002
+GAS2|Group Accident-Occ loading|T001|Total Permanence Dis(10-90)|C20-002
+GAS2|Group Accident-Occ loading|T002|Total Permanence Dis(50-50)|C20-002
+GAS2|Group Accident-Occ loading|T007|Total Disability|C20-002
+GCL1|Group Cover Life|D001|Death (all cause)- GTL1|CR0002
+GCL1|Group Cover Life|T001|Total Permanence Dis(10-90)|C9003
+GCL1|Group Cover Life|T002|Total Permanence Dis(50-50)|C9003
+GCL1|Group Cover Life|T007|Total Disability|C9003
+GLTS|Group Level Term Single Prem|D001|Death (all cause)- GTL1|CR0002
+GLTS|Group Level Term Single Prem|T007|Total Disability|C9003
+GME1|ค่ารักษาพยาบาลจากอุบัติเหตุ|A022|Medical Expense (Accident)|C20-005
+GME2|ค่ารักษาพยาบาลจากอุบัติเหตุ|A022|Medical Expense (Accident)|C20-005
+GTL1|สัญญาหลัก แบบไม่มีส่วนควบ TPD|D001|Death (all cause)- GTL1|CR0002
+GTL1|สัญญาหลัก แบบไม่มีส่วนควบ TPD|D002|Death (all cause)- GTL2|CR0002
+GTL1|สัญญาหลัก แบบไม่มีส่วนควบ TPD|D004|Death (Accident)|C9002
+GTL2|สัญญาหลัก แบบมีส่วนควบ TPD|D002|Death (all cause)- GTL2|CR0002
+GTL4|GTL+TPD (accelerate)|D006|Death (all cause)- GTL4|CR0002
+GTL4|GTL+TPD (accelerate)|T008|Total Permanence Dis Circle lo|C20-002
+GTS1|Group Temporary Disability|T005|Total Tempolary Dis Full|C20-002
+GTS2|Group Temporary Disability Occ|T005|Total Tempolary Dis Full|C20-002
+IPDL|ค่ารักษาพยาบาลแบบ Lump Sum|A001|Room and Board|C9B10
+IPDL|ค่ารักษาพยาบาลแบบ Lump Sum|A002|ICU|C9B11
+IPDL|ค่ารักษาพยาบาลแบบ Lump Sum|A004|Surgical Fees (Schdule)|C9B18
+IPDL|ค่ารักษาพยาบาลแบบ Lump Sum|A005|Surgical Fees (Non Schdule)|C9B18
+IPDL|ค่ารักษาพยาบาลแบบ Lump Sum|A007|Doctor Visit per day|C9B02
+IPDL|ค่ารักษาพยาบาลแบบ Lump Sum|A008|Speciallist Doctor consult Fee|C9B17
+IPDL|ค่ารักษาพยาบาลแบบ Lump Sum|A009|Emergency OPD by Accident|C9B28
+IPDL|ค่ารักษาพยาบาลแบบ Lump Sum|HOSP|Hospital Expense|C9B07
+IPD1|ค่ารักษาพยาบาลแบบ HS|AMBU|Ambulance Benefit|C9B33
+IPD1|ค่ารักษาพยาบาลแบบ HS|A001|Room and Board|C9B10
+IPD1|ค่ารักษาพยาบาลแบบ HS|A002|ICU|C9B11
+IPD1|ค่ารักษาพยาบาลแบบ HS|A004|Surgical Fees (Schdule)|C9B18
+IPD1|ค่ารักษาพยาบาลแบบ HS|A005|Surgical Fees (Non Schdule)|C9B18
+IPD1|ค่ารักษาพยาบาลแบบ HS|A006|General Hospital Service (IPD)|C9B10
+IPD1|ค่ารักษาพยาบาลแบบ HS|A007|Doctor Visit per day|C9B02
+IPD1|ค่ารักษาพยาบาลแบบ HS|A008|Speciallist Doctor consult Fee|C9B17
+IPD1|ค่ารักษาพยาบาลแบบ HS|A009|Emergency OPD by Accident|C9B28
+IPD1|ค่ารักษาพยาบาลแบบ HS|DRUG|Drug Benefit|C9B15
+IPD1|ค่ารักษาพยาบาลแบบ HS|HOSP|Hospital Expense|C9B07
+IPD2|ค่ารักษาพยาบาลแบบ MEA|AMBU|Ambulance Benefit|C9B33
+IPD2|ค่ารักษาพยาบาลแบบ MEA|A001|Room and Board|C9B10
+IPD2|ค่ารักษาพยาบาลแบบ MEA|A002|ICU|C9B11
+IPD2|ค่ารักษาพยาบาลแบบ MEA|A004|Surgical Fees (Schdule)|C9B18
+IPD2|ค่ารักษาพยาบาลแบบ MEA|A005|Surgical Fees (Non Schdule)|C9B18
+IPD2|ค่ารักษาพยาบาลแบบ MEA|A006|General Hospital Service (IPD)|C9B10
+IPD2|ค่ารักษาพยาบาลแบบ MEA|A007|Doctor Visit per day|C9B02
+IPD2|ค่ารักษาพยาบาลแบบ MEA|A008|Speciallist Doctor consult Fee|C9B17
+IPD2|ค่ารักษาพยาบาลแบบ MEA|A009|Emergency OPD by Accident|C9B28
+IPD2|ค่ารักษาพยาบาลแบบ MEA|A020|Pre OPD Doctor Consult|C9B17
+IPD2|ค่ารักษาพยาบาลแบบ MEA|A021|Post Medical|C9B07
+IPD2|ค่ารักษาพยาบาลแบบ MEA|A08S|Specialist Doc Fee (Seperate)|C9B17
+IPD2|ค่ารักษาพยาบาลแบบ MEA|A09S|Emer OPD by Accident(Seperate)|C9B28
+IPD2|ค่ารักษาพยาบาลแบบ MEA|DRUG|Drug Benefit|C9B15
+IPD2|ค่ารักษาพยาบาลแบบ MEA|ED01|Revise IPD definition|C9B35
+IPD2|ค่ารักษาพยาบาลแบบ MEA|ED02|Waive Pre-existing condition|C9B35
+IPD2|ค่ารักษาพยาบาลแบบ MEA|HOSP|Hospital Expense|C9B07
+IPD2|ค่ารักษาพยาบาลแบบ MEA|OPD1|OPD after IPD|C9B27
+IPD2|ค่ารักษาพยาบาลแบบ MEA|PA26|Ambulance Cost|C9B33
+MAT1|Maternity|A014|Maternity Normal Delivery|C9B35
+MAT1|Maternity|A015|Maternity Casearen Delivery|C9B35
+MAT1|Maternity|A016|Maternity Miscarriage|C9B35
+MAT1|Maternity|ED09|Extend coverage since join|C9B35
+MJML|Major Med for IPDL|A017|Major Medical for IPD|C9B12
+MJML|Major Med for IPDL|A018|Major Medical for IPDL|C9B12
+MJM1|Major Med for IPD|A017|Major Medical for IPD|C9B12
+MRTA|Group MRTA|D001|Death (all cause)- GTL1|CR0002
+MRTA|Group MRTA|T007|Total Disability|C20-002
+OPDL|OPD แบบต่อปี (Lump Sum)|A011|OPD Lump Sum|CR0014
+OPDL|OPD แบบต่อปี (Lump Sum)|CHKL|OPD - Health Checkup (LumpSum)|C9B35
+OPDL|OPD แบบต่อปี (Lump Sum)|CHK1|Check Up|C9B35
+OPDL|OPD แบบต่อปี (Lump Sum)|ED04|Extend Alt Treatment OPDL|CR0014
+OPDL|OPD แบบต่อปี (Lump Sum)|OPT1|Optical|C9B35
+OPDL|OPD แบบต่อปี (Lump Sum)|VACL|OPD - Vaccination (LumpSum)|C9B35
+OPDL|OPD แบบต่อปี (Lump Sum)|VAC1|Vaccine|C9B35
+OPD1|OPD แบบต่อครั้ง (per visit)|AMBU|Ambulance Benefit|C9B33
+OPD1|OPD แบบต่อครั้ง (per visit)|A001|Room and Board|C9B10
+OPD1|OPD แบบต่อครั้ง (per visit)|A002|ICU|C9B11
+OPD1|OPD แบบต่อครั้ง (per visit)|A005|Surgical Fees (Non Schdule)|C9B18
+OPD1|OPD แบบต่อครั้ง (per visit)|A006|General Hospital Service (IPD)|C9B10
+OPD1|OPD แบบต่อครั้ง (per visit)|A007|Doctor Visit per day|C9B02
+OPD1|OPD แบบต่อครั้ง (per visit)|A008|Speciallist Doctor consult Fee|C9B17
+OPD1|OPD แบบต่อครั้ง (per visit)|A009|Emergency OPD by Accident|C9B28
+OPD1|OPD แบบต่อครั้ง (per visit)|A010|OPD per visit|CR0014
+OPD1|OPD แบบต่อครั้ง (per visit)|A011|OPD Lump Sum|CR0014
+OPD1|OPD แบบต่อครั้ง (per visit)|A019|X-ray and Lab|C9B08
+OPD1|OPD แบบต่อครั้ง (per visit)|CHK1|Check Up|C9B35
+OPD1|OPD แบบต่อครั้ง (per visit)|ED03|Extend Alt Treatment OPD1|CR0014
+OPD1|OPD แบบต่อครั้ง (per visit)|VAC1|Vaccine|C9B35
+PRE1|Pre-Medical|A028|Pre Medical|C9B35
+PST1|Post-Medical|A021|Post Medical|C9B35
+TPDA|TPD Additional Rider|A026|Accident Dismemberment|C20-002
+TPDA|TPD Additional Rider|A027|Accident Dismemberment (Short)|C20-002
+TPDA|TPD Additional Rider|D001|Death (all cause)- GTL1|CR0002
+TPDA|TPD Additional Rider|D004|Death (Accident)|CR0002
+TPDA|TPD Additional Rider|T001|Total Permanence Dis(10-90)|C20-002
+TPDA|TPD Additional Rider|T002|Total Permanence Dis(50-50)|C20-002
+TPDA|TPD Additional Rider|T007|Total Disability|C20-002
+TPD1|TPD แบบควบกรมธรรม์แบบ EB|A025|Double Benefit by Public Trans|C20-008
+TPD1|TPD แบบควบกรมธรรม์แบบ EB|D002|Death (all cause)- GTL2|CR0002
+TPD1|TPD แบบควบกรมธรรม์แบบ EB|D005|Death (Double indemnity)|CR0002
+TPD1|TPD แบบควบกรมธรรม์แบบ EB|T001|Total Permanence Dis(10-90)|C20-002
+TPD1|TPD แบบควบกรมธรรม์แบบ EB|T002|Total Permanence Dis(50-50)|C20-002
+TPD1|TPD แบบควบกรมธรรม์แบบ EB|T007|Total Disability|C20-002
+TPD2|TPD แบบควบกรมธรรม์แบบ CR|A026|Accident Dismemberment|C20-002
+TPD2|TPD แบบควบกรมธรรม์แบบ CR|A027|Accident Dismemberment (Short)|C20-002
+TPD2|TPD แบบควบกรมธรรม์แบบ CR|T001|Total Permanence Dis(10-90)|C20-002
+TPD2|TPD แบบควบกรมธรรม์แบบ CR|T002|Total Permanence Dis(50-50)|C20-002
+TPD2|TPD แบบควบกรมธรรม์แบบ CR|T007|Total Disability|C20-002
+TPD3|TPD แบบควบกรมธรรม์แบบ CL|T008|Total Permanence Dis Circle lo|C20-002
+XRL1|OPD , X-ray , Lab|A019|X-ray and Lab|C9B08

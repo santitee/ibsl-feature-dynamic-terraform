@@ -1,0 +1,11 @@
+IBS Project 
+
+source code path
+
+[PROD]
+
+Script path
+s3://kt-th-dl-prod-ibs/engine/
+
+Temporary path
+s3://kt-th-dl-prod-ibs/engine/tmp

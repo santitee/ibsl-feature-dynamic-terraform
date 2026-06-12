@@ -1,0 +1,35 @@
+﻿C1|Cancelled|Cancelled|99
+Cancelled|Cancelled|Cancelled|99
+D10|Declined|ไม่คุ้มครองสำเนาใบเสร็จ|99
+D11|Declined|Deneid health Rider&send to HB/MEB|99
+D13|Declined|Denied & Investigation|99
+D14|Declined|ไม่คุ้มครอง Health Rider และส่งต่อ Major claim เพื่อพิจารณา Rider อื่น|99
+D15|Declined|Reject Precer or Faxclaim & Consult Investigation/Under Write|99
+D16|Declined|Confirmed deny by second opinion|99
+D17|Declined|Denied direct HB : already paid in other notifyno|99
+D31|Declined|Not an Illness|99
+D33|Declined|Claimant not on cover|99
+D34|Declined|No Benefit Cover|99
+D35|Declined|No Check up Benefit|99
+D36|Declined|No Vaccination Benefit|99
+D37|Declined|No Dental Benefit|99
+D38|Declined|Alternative Medicine|99
+D4|Declined|Policy Expired|99
+D5|Declined|unnecessary admission|99
+D6|Declined|Over Benefits Cover-Reject|99
+D7|Declined|Pending for payment/in process of payment (Over Benefits-Paid to hospital & shortfall to Client)|99
+D8|Declined|Denied due to deductible|99
+D9|Declined|No OPD Benefit-ไม่มีผลประโยชน์แบบผู้ป่วยนอก|99
+Declined|Declined|Declined|99
+INC|Cancelled|Cancelled|99
+LB2|Rejected|อื่น ๆ โปรดระบุในหมายเหตุ|99
+LB3|Cancelled|Cancelled|99
+PC5|Cancelled|Cancelled|99
+R1|Rejected|Reject claim due to incomplete document|99
+R2|Rejected|Reject claim's document to client|99
+R3|Rejected|Reject claim's document to hospital|99
+R4|Rejected|Reimbursement-แจ้งสำรองจ่าย|99
+R4W|Rejected|Reimbursement-Waiting to consider investigation on Direct claim document|99
+R5|Rejected|ลูกค้าขอสำรองจ่าย (โรคผ่าน แต่ติดการชำระเบี้ย)|99
+Rejected|Rejected|Rejected|99
+W3V|Rejected| Reimbursement-Waiting for investigation-May be Voided|99
