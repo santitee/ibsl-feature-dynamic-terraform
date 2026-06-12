@@ -8,7 +8,7 @@ Last update  : 23 Dec 2025
 Modified by  : Santi Teeragul
 Last update  : 23 Mar 2026
 '''
-'''
+
 import sys
 import boto3
 from pyspark.context import SparkContext
@@ -164,4 +164,3 @@ else:
 
 print('Aggregation was successful, commiting now.')
 job.commit()
-'''
