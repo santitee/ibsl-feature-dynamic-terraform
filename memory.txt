@@ -1,0 +1,72 @@
+TODO: #1
+
+create new function to check param from workflow 
+first declare new param variable name
+MANUAL_MODE
+POLICY_TYPE
+
+declare new variable name 'POLICY_TYPE' is a list include ('ord', 'grp', all)
+declare new variable name 'DOMAIN_TYPE' is a list include ('policy', 'payment', 'claim', 'insured', all)on 2 list 'POLICY_TYPE' and 'DOMAIN_TYPE' have all in list value because it mean if check value == 'ALL' must be lower_case and compare in list with lowercase 'all'  all mean active all value 
+second
+
+TODO:1 check validate workflow propeties name 'MANUAL_MODE' equals 'NO' then call ord_policy() TODO:2 and check if 'MANUAL_MODE' equals 'YES'check if   POLICY_TYPE == 'ORD' that value have 3 value 'ORD'
+all validate check must be lowor_case value always then check value because prevention value is not match## comment TODO:1if MANUAL_MODE == 'NO'
+	ord_policy()
+else
+	## comment TODO:2        if POLICY_TYPE == 'ORD' or 'ALL' #lower case value from workflow propeties first                 if 'all' in DOMAIN_TYPE                        ord_policy()                else if 'policy'  in DOMAIN_TYPE
+			ord_policy()
+		else
+			log ('Not Run') ##  Call function log to print message
+-------------------------------------------------------------------------
+TODO: #2
+And Convert this to AWS Glue job parameters.and add unit test for this function and explain the 'all' logic in detail 
+-------------------------------------------------------------------------
+TODO: #3
+จริงๆ ต้องการแบบ Advanced Option (Best Practice) นี้ เพียงแต่ว่า ไฟล์ job ใน glue นั้น แยกกันอยู่แต่ละไฟล์ จึงต้องแยก function การทำงานของแต่ละไฟล์ดังนี้ 
+source code path เก็บไว้ที่ Script path
+s3://kt-th-dl-prod-ibs/engine/
+กับ kt-th-dl-prod-tooling/ibs_utilities
+
+[PROD]
+Script path
+s3://kt-th-dl-prod-ibs/engine/
+
+Temporary path
+s3://kt-th-dl-prod-ibs/engine/tmp
+
+
+utilities
+ordinary(ord)
+ibs_ordinary_claim_utilities.py
+ibs_ordinary_payment_utilities.py
+ibs_ordinary_policy_utilities.py
+
+group(grp)
+ibs_group_claim_utilities.py
+ibs_group_payment_utilities.py
+ibs_grp_std_insured_only_utilities.py
+ibs_grp_std_policy_only_utilities.py
+
+jobs
+final_output
+ibs_claim_final_output-spec4.0
+ibs_policy_final_output-spec4.0
+ibs_payment_final_output-spec4.0
+ibs_group_payment_final_output-spec4.0
+ibs_group_claim_final_output-spec4.0
+ibs_group_insured_final_output-spec4.0
+ibs_group_policy_final_output-spec4.0
+
+aggregation
+ordinary(ord)
+ibs_ordinary_policy_aggregation-spec4.0
+ibs_ordinary_claim_aggregation-spec4.0
+ibs_ordinary_payment_aggregation-spec4.0
+
+group(grp)
+ibs_group_claim_aggregation-spec4.0
+ibs_group_payment_aggregation-spec4.0
+ibs_group_insured_only_aggregation-spec4.0
+ibs_group_policy_only_aggregation-spec4.0
+สามารถแนะนำฉันเพิ่มเติมได้
+-------------------------------------------------------------------------
