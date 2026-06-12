@@ -70,3 +70,60 @@ ibs_group_insured_only_aggregation-spec4.0
 ibs_group_policy_only_aggregation-spec4.0
 สามารถแนะนำฉันเพิ่มเติมได้
 -------------------------------------------------------------------------
+TODO: #4
+เพิ่มเติมอีก ถ้ากรณี มี value ของ DOMAIN_TYPE เข้ามามากกว่า หนึ่งค่า แบบนี้"DOMAIN_TYPE": ["policy", "claim"] ให้ทำการเช็คทั้ง 2 ค่า หรือทุกค่าที่รับเข้ามาผ่าน workflow แล้วทำการ วนลูป เช็คไปที่ละค่า จนครบทุกค่า
+
+-------------------------------------------------------------------------
+TODO: #5
+- แยก function per domain (policy/claim/payment)
+- เขียน Glue Workflow → DynamoDB config driven
+- ทำ logging เป็น JSON (CloudWatch)
+- แนวทางที่แนะนำ (Production Design)
+1. ใช้ “Dispatcher Pattern” (Central Control)
+ไม่ให้แต่ละ job เขียน if/else เอง แต่ให้มี controller กลาง
+2. สร้าง "Execution Registry" แทนการ import ทีละไฟล์แบบ hardcode
+→ ใช้ mapping กลาง
+3. Dispatcher Logic (Core Brain)
+และสามารถรวบรวม parameter ที่เรียกใช้ใน workflow เสมอ pass เข้าไปด้วย
+4. วิธีใช้ในแต่ละ Glue Job
+5. Structure ที่ได้ (Clean + Scale)
+6. Behavior จริง (Case สำคัญ)
+- Case#1 MANUAL_MODE = NO -> run ทุก job ทุก domain
+- Case#2 MANUAL_MODE = YES, POLICY_TYPE = ORD, DOMAIN_TYPE = policy,claim -> run ord_policy(), 
+ord_claim()
+- Case#3 MANUAL_MODE = YES, POLICY_TYPE = ALL, DOMAIN_TYPE = payment -> run ord_payment()
+grp_payment()
+- Case#4 MANUAL_MODE = YES, POLICY_TYPE = ORD , DOMAIN_TYPE = ALL -> run ord_policy()
+ord_claim()
+ord_payment()
+7.config-driven เก็บ REGISTRY ใน JSON / DynamoDB:
+
+-------------------------------------------------------------------------
+TODO: #6
+ช่วยออกแบบ deployment ให้หน่อย
+ขยายตัวอย่าง config-driven
+แนะนำ CI/CD สำหรับ Glue ถ้าสามารถ ทำเป็น terraform ได้ด้วยยิ่งดีมากเลย ช่วยแนะนำฉันหน่อย
+
+-------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------
